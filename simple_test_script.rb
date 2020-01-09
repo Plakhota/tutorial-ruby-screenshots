@@ -34,6 +34,7 @@ begin
   )
   eyes.close
 rescue => e
+  puts e.message
   eyes.abort
 ensure
   puts runner.get_all_test_results
