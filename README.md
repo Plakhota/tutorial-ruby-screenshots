@@ -1,17 +1,11 @@
-# Pre-requisites:
+# Applitools Tutorial - Images Ruby
 
-1. Ruby is installed on your machine.
-   * [See instructions here](https://www.ruby-lang.org/en/documentation/installation/)
+Get started with Applitools Eyes visual testing with this basic example of using the Ruby and the Eyes Images SDK.
 
-# Steps to run this example
+Learn more about how to install and start this project with our [Images Ruby tutorial](https://applitools.com/tutorials/screenshots-ruby.html)!
 
-1. Git clone this repo
-    * `git clone git@github.com:applitools/tutorial-ruby-screenshots.git`
-2. Open the folder `tutorial-ruby-screenshots`
-3. Run command `gem install bundler && bundle install`. This will install necessary ruby gems and dependencies
-4. Obtain your API_KEY:
-    * Login to Applitools > Click on the Person icon > My API Key
-5. Export the API_KEY: 
-    * For Mac, Linux: `export APPLITOOLS_API_KEY=MY_API_KEY`
-    * For Windows: `SET APPLITOOLS_API_KEY=MY_API_KEY`
-6. Run the test: `bundle exec ruby simple_test_script.rb`
+<https://applitools.com/tutorials/screenshots-ruby.html>
+
+## More Information
+
+Learn more about Applitools [Eyes](https://info.applitools.com/ucY77) and the [Ultrafast Test Cloud](https://info.applitools.com/ucY78) at [applitools.com](https://info.applitools.com/ucY76).
