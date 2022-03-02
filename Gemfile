@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem "eyes_images", "= 3.18.3"
+gem "eyes_images", "= 4.0.2"
